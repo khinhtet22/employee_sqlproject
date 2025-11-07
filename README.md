@@ -132,22 +132,21 @@ README.md
 1. Install MySQL 8+
 2. Import the Employees Dataset
 3. Open MySQL Workbench
-4. Copy queries from the /sql folder
-5. Run queries individually or build a dashboard in Power BI
+4. Write queries to answer business questions
 ```
+
+
+# ✅ Future Improvements
+- Run queries individually or build a dashboard in Power BI
+- Add Power BI dashboards (salary trends, retention, gender gap)  
+- Add Python ETL to automate updates  
+- Build ML prediction models (salary forecasting, turnover prediction)  
 
 To use in Power BI:
 
 ```
 Get Data → MySQL → Advanced Options → Paste the SQL query
 ```
-
-# ✅ Future Improvements
-
-- Add Power BI dashboards (salary trends, retention, gender gap)  
-- Add Python ETL to automate updates  
-- Build ML prediction models (salary forecasting, turnover prediction)  
-
 ---
 
 ### ⭐ If you find this project useful, feel free to give the repository a star!
