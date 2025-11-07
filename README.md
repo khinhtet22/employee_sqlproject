@@ -142,21 +142,11 @@ To use in Power BI:
 Get Data → MySQL → Advanced Options → Paste the SQL query
 ```
 
----
-
 # ✅ Future Improvements
 
 - Add Power BI dashboards (salary trends, retention, gender gap)  
 - Add Python ETL to automate updates  
 - Build ML prediction models (salary forecasting, turnover prediction)  
-
----
-
-# ✅ Contact (Optional)
-If you'd like to connect or explore more of my work:
-
-- GitHub: *(your link)*  
-- LinkedIn: *(your link)*  
 
 ---
 
