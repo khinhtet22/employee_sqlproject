@@ -118,12 +118,6 @@ README.md
 - Turnover & retention metrics  
 - Gender pay gap analytics  
 - Department performance insights  
-
-### ✅ BI & Reporting Skills  
-- Power BI integration  
-- Query design for dashboards  
-- Reusable SQL data models  
-
 ---
 
 ## ✅ How to Run This Project
